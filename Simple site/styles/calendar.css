@@ -1,0 +1,47 @@
+body{
+    background-image: url(/images/ValleyMist.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+a{
+    color: rgb(150, 150, 150);
+    font-size: 20px;
+}
+
+.row{
+    display: table;
+    margin: auto;
+}
+
+.month{
+    float: left;
+    margin-right: 10px;
+    border-collapse: collapse;
+    text-align: right;
+}
+
+thead{
+    background-color: rgb(100, 100, 100);
+    text-align: center;
+}
+
+
+.holiday{
+    background-color: rgb(100, 100, 100);
+}
+
+.calendar{
+    margin: 0 auto;
+    padding-top: 20px;
+    text-align: center;
+    color:rgb(210, 210, 210);
+    width:600px;
+    height: 700px;
+    background-color: rgba(0, 0, 0, 0.7);
+    border-radius: 25px;
+}
+
+h1{
+    margin-bottom: 0;
+}

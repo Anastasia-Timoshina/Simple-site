@@ -1,0 +1,106 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.back{
+    font-size: 20px;
+    color: rgb(76, 76, 145);
+}
+
+body{
+    background-color: rgb(123, 123, 238);
+}
+
+.cv{
+    background-color: rgb(179, 179, 245);
+    margin: auto;
+    max-width: 800px;
+}
+
+.line{
+    padding: 10px 60px;
+    border-bottom: black solid 1px;
+}
+
+.inf-about{
+    max-height: 340px;
+}
+
+.foto{
+    width: 200px;    
+}
+
+.foto-image{
+    display: inline-flex;
+    margin-top: 30px;
+    margin-left: 60px;
+}
+
+.container{  
+    display: inline-block;
+    margin-left: 80px;
+    position: relative;
+    bottom: 150px;
+}
+
+.name h1{
+    font-size: 30px;
+    padding-bottom: 10px;
+}
+
+.name h2{
+    font-size: 25px;
+    padding-bottom: 30px;
+}
+
+.contacts{
+    font-size: 15px;
+    padding-bottom: 30px;
+}
+
+.contact{
+    padding-bottom: 10px;
+}
+
+.contactType{
+    display: inline-table;
+}
+
+.contactValue{
+    display: inline;
+}
+
+.about{
+    padding: 0 60px;
+}
+
+.experience{
+    padding: 0 60px;
+    padding-top: 10px;
+}
+
+.expDate{
+    position: relative;
+    bottom: 43px;
+}
+
+.expDescription{
+    padding-left: 40px;
+    padding-bottom: 10px;
+}
+
+.skills{
+    padding: 10px 60px 0;
+}
+
+.skillsTitle{
+    display: inline-block;
+    font-size: 20px;
+    font-weight: bold;
+    padding-right: 85px;
+}
+
+.about-skills{
+    display: inline-block;
+}
