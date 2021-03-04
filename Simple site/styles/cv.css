@@ -15,7 +15,7 @@ body{
 .cv{
     background-color: rgb(179, 179, 245);
     margin: auto;
-    max-width: 800px;
+    width: 800px;
 }
 
 .line{
